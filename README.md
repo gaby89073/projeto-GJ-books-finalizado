@@ -1,1 +1,1 @@
-# projeto-GJ-books-finalizado
+# projeto-gjbooks
